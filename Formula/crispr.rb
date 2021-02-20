@@ -4,7 +4,7 @@ class Crispr < Formula
   homepage "https://github.com/yoav-lavi/crispr"
 
   if OS.mac?
-      url "https://github.com/yoav-lavi/crispr/releases/download/v#{version}/crispr-v#{version}-x86_64-apple-darwin.tag.gz"
+      url "https://github.com/yoav-lavi/crispr/releases/download/v#{version}/crispr-v#{version}-x86_64-apple-darwin.tar.gz"
       sha256 "13fb8f8f2366b7ba566be395935e46a105c1341fa1a62167f3a91e91c497a8a2"
   end
 
