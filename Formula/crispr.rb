@@ -5,7 +5,7 @@ class Crispr < Formula
 
   if OS.mac?
       url "https://github.com/yoav-lavi/crispr/releases/download/v#{version}/crispr-v#{version}-x86_64-apple-darwin.tar.gz"
-      sha256 "13fb8f8f2366b7ba566be395935e46a105c1341fa1a62167f3a91e91c497a8a2"
+      sha256 "a8e84e536c179d8069f5487d85467b1a0d93f141a3bcf0e31d5e2cec15696517"
   end
 
   conflicts_with "crispr"
