@@ -2,6 +2,7 @@ class Crispr < Formula
   version '0.1.0'
   desc "Scaffold a project from a template"
   homepage "https://github.com/yoav-lavi/crispr"
+  license "MIT"
 
   if OS.mac?
       url "https://github.com/yoav-lavi/crispr/releases/download/v#{version}/crispr-v#{version}-x86_64-apple-darwin.tar.gz"
