@@ -1,4 +1,4 @@
-class Crisper < Formula
+class Crispr < Formula
   version '0.1.0'
   desc "Scaffold a project from a template"
   homepage "https://github.com/yoav-lavi/crispr"
